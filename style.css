@@ -1,0 +1,214 @@
+
+img {
+    max-height: 30%;
+    max-width: 30%;
+    border-radius: 10%;
+}
+
+@media (max-width: 768px) {
+    button {
+        width: 150px; 
+        height: 60px;
+        font-size: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+h1 {
+    color: navy;
+    text-align: center;
+    font-family: "Calibri", calibri;
+    padding: 20px; 
+    font-size: 3cm; 
+   transform: translatey(-30%);
+   margin-top: 10%; 
+   
+}
+
+body {
+    background-color: #ffffff;
+}
+
+nav {
+    text-align: center;
+    font-size: 1.875em;
+    font-family: "Calibri", calibri;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 1em;
+    background-color: white;
+}
+
+li {
+    display: inline;
+    margin-right: 10px;
+    padding: 5em; 
+}
+
+li a:hover {
+    background-color: #f6fefa;
+    padding: 1em;
+}
+
+nav a {
+    text-decoration: none;
+    color: #8e7c92;
+}
+
+.firstsection {
+    background-color: #fff0f9;
+    height: 720px;
+}
+
+.firstsectiontext {
+    text-align: center;
+    font-family: "Calibri", calibri;
+    font-size: 1.875em;
+    padding: 0 20px;
+    margin: 0 20%; 
+   transform: translatey(-10);
+   line-height: 1.5;
+}
+
+.firstphoto {
+    text-align: center;
+    max-width: 50%;
+    max-height: auto;
+   transform: translatex(50%);
+}
+
+h3 {
+    text-align: center;
+    padding: 1em; 
+    font-family: "Calibri", calibri;
+    font-size: 3.125em; 
+    transform: translateY(-5px); 
+}
+
+.secondsection {
+    background-color: #f0f8ff;
+    height: 720px;
+}
+
+.secondphoto {
+    text-align: center;
+    padding: 1em;
+   
+}
+
+h4 {
+   text-align: center;
+    padding: 1em; 
+    font-family: "Calibri", calibri;
+    font-size: 3.125em; 
+    transform: translateY(-5px); 
+}
+
+.secondsectiontext {
+   text-align: center;
+    font-family: "Calibri", calibri;
+    font-size: 1.875em;
+    padding: 0 20px;
+    margin: 0 20%; 
+   transform: translatey(-20);
+   line-height: 1.5;
+}
+
+
+.thirdsection {
+    height: 720px;
+    background-color: #ffffff;
+}
+
+.thirdphoto {
+    text-align: center;
+}
+
+h5 {
+   text-align: center;
+    padding: 1em; 
+    font-family: "Calibri", calibri;
+    font-size: 3.125em; 
+    transform: translateY(-5px); 
+}
+
+.thirdsectiontext {
+   text-align: center;
+    font-family: "Calibri", calibri;
+    font-size: 1.875em;
+    padding: 0 20px;
+    margin: 0 20%; 
+   transform: translatey(-20);
+   line-height: 1.5;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Calibri", calibri;
+    color: navy;
+    font-size: 5em; 
+    padding: 1em;
+}
+
+.hotlines {
+   margin-top: 7cm; 
+    text-align: center;
+    padding: 1em;
+    font-family: "Calibri", calibri;
+}
+
+.intro {
+    padding: 1em;
+    font-family: "Calibri", calibri;
+    font-size: 2.5em; 
+}
+
+.number1, .number2, .number3 {
+    padding: 1.5em;
+    font-family: "Calibri", calibri;
+    font-size: 1.875em; ]
+}
+
+.number3 {
+    margin-bottom: 10%;
+}
+
+button {
+   text-align: center; 
+   font-size: 30px; 
+   cursor: pointer; 
+   border: 5px; 
+   background-color: white; 
+   width: 200px; 
+   height: 80px; 
+   margin-right: 50%;
+   margin-left: 50%; 
+   color: #a4a4df; 
+   font-family: "Calibri", calibri; 
+
+   
+}
+
+.messagesection {
+   background-color: #f5f6ff; 
+   height: 700px;
+   margin-bottom: 10%;
+    display: flex; 
+    flex-direction
+   
+   
+}
+
+#messageContainer {
+   font-family: "calibri", calibri; 
+   font-size: 30px; 
+   font-weight: bold; 
+   text-align: center; 
+   margin-top: 20px; 
+   line-height: 1.5; 
+   padding: 4em; 
+
+}
